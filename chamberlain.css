@@ -1,0 +1,57 @@
+/* class selector includes period before selector */
+body {
+    background: beige;
+    padding: 64px;
+    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/f7/2d/8b/f72d8b4ee3bca6abf340d274c81103b5.jpg");
+    margin: 80px;
+  }
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+ h1 {
+   font-family: serif;
+   font-size: 24px;
+   color: brown;
+ } 
+  h3 {
+    font-family: serif;
+    font-size: 20px;
+    color: brown;
+  }
+ p {
+   font-family: sans-serif;
+   font-size: 18px;
+   color: black;
+ } 
+ a {
+   color: brown;
+ } 
+  #list {
+    display: inline-block;
+  }
+  li {
+    font-family: sans-serif;
+    font-size: 18px;
+    border: 40px;
+    border-color: brown;
+
+    
+   
+  }
+  #list-text {
+    font-family: serif;
+    font-size: 20px;
+    color: brown;
+  }
+.main-body {
+  width: 80%;
+  background-color: beige;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 40px;
+  max-width: 900px;
+}
